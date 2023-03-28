@@ -17,7 +17,7 @@ public class VehicleApp {
     }
 
     public static void main(String[] args) {
-        VehicleService.mainMenu();
+        mainMenu();
 
         // scan.next(); // To call the Scanner object class from the main method there's another option: create an object, call the method.
         int option = -1;

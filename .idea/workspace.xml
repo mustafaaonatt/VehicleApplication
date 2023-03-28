@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9922565b-4b8e-4bab-92de-a80d67d577b4" name="Changes" comment="I added up-menu." />
+    <list default="true" id="9922565b-4b8e-4bab-92de-a80d67d577b4" name="Changes" comment="I added up-menu.">
+      <change afterPath="$PROJECT_DIR$/src/VehicleAbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VehicleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VehicleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VehicleService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
